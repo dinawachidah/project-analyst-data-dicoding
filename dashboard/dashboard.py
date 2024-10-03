@@ -7,8 +7,7 @@ import seaborn as sns
 st.title("E-Commerce Sales Dashboard")
 
 # Load the dataset
-data_path = "G:/My Drive/Ecommerce-dataset/all_data.csv"
-data = pd.read_csv(data_path)
+data = pd.read_csv("all_data.csv")
 
 # Display the dataset
 st.subheader("Data Overview")

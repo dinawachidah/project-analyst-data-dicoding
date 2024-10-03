@@ -23,7 +23,3 @@ Proyek ini adalah analisis data penjualan e-commerce yang dilakukan menggunakan 
 
 ## Dataset
 Dataset yang digunakan dalam analisis ini dapat ditemukan di folder `data`.
-
-## Link Dashboard
-Local URL: http://localhost:8501
-Network URL: http://192.168.1.17:8501

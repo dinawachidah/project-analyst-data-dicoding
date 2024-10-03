@@ -7,7 +7,8 @@ import seaborn as sns
 st.title("E-Commerce Sales Dashboard")
 
 # Load the dataset
-data = pd.read_csv("all_data.csv")
+url = "https://raw.githubusercontent.com/dinawachidah/project-analyst-data-dicoding/refs/heads/main/dashboard/all_data.csv"
+data = pd.read_csv(url)
 
 # Display the dataset
 st.subheader("Data Overview")
